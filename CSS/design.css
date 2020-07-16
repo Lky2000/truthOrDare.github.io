@@ -27,10 +27,18 @@
 
 .container-fluid {
   background-color: rosybrown;
-
 }
 
 html, body {
     height: 100%;
     background-color: rosybrown!important;
 }
+
+  .nav-item:hover{
+    background-color: peru;
+    border-bottom: 2px solid black;
+  }
+
+  .content{
+    text-align: center;
+  }
